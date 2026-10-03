@@ -1,0 +1,5 @@
+[functions.process-video]
+verify_jwt = true
+
+[functions.render-clip]
+verify_jwt = true
